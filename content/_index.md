@@ -4,8 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
----
-
 sections:
   - block: slider
     content:
@@ -44,7 +42,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Contact us
-          url: contact/
+          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -53,5 +51,4 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-
 ---
