@@ -12,6 +12,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-09-28T16:23:34.503Z
+date: 2021-09-28T16:23:00.000Z
 ---
 S﻿ee the book at <https://www.mdpi.com/books/book/4791-modelling-and-simulation-of-human-environment-interactions>
