@@ -7,9 +7,7 @@ authors:
   - T. Koster
   - P.J. Giabbanelli
   - A.M. Uhrmacher
-author_notes:
-  - S. Mkhitaryan
-  - P.J. Giabbanelli
+author_notes: []
 doi: 10.1109/WSC48552.2020.9384086
 publication: Proceedings of the 2020 Winter Simulation Conference (WSC), 2281-2292. IEEE/ACM
 draft: false
