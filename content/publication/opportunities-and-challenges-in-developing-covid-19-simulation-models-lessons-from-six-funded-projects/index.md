@@ -8,7 +8,7 @@ authors:
   - J. Badham
   - B. Castellani
   - H. Kavak
-  - V. Mago
+  - V.K. Mago
   - A. Negahban
   - S. Swarup
 doi: 10.23919/ANNSIM52504.2021.9552089
