@@ -3,7 +3,7 @@ title: Automatic Generation of Individual Fuzzy Cognitive Maps from Longitudinal
 publication_types:
   - "1"
 authors:
-  - C. Wozniak
+  - M.K. Wozniak
   - S. Mkhitaryan
   - P.J. Giabbanelli
 doi: 10.1007/978-3-031-08757-8_27
