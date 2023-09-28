@@ -1,5 +1,5 @@
 ---
-title: Creating perceptual uncertainty in Agent-Based Models with social interactions.
+title: Creating perceptual uncertainty in Agent-Based Models with social interactions
 publication_types:
   - "1"
 authors:
@@ -7,7 +7,7 @@ authors:
   - P.J. Giabbanelli
 author_notes: []
 doi: 10.22360/SpringSim.2020.HSAA.010
-publication: Proceedings of the 2020 Spring Simulation Conference. In-cooperation ACM/IEEE.
+publication: Proceedings of the 2020 Spring Simulation Conference. In-cooperation ACM/IEEE
 draft: false
 featured: false
 image:
