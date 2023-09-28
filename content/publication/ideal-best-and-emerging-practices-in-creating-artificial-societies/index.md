@@ -8,7 +8,7 @@ authors:
   - B. Castellani
   - P. Tornberg
 doi: 10.23919/SpringSim.2019.8732881
-publication: Proceedings of the 2019 Spring Simulation Conference. In-cooperation ACM/IEEE.
+publication: Proceedings of the 2019 Spring Simulation Conference. In-cooperation ACM/IEEE
 draft: false
 featured: false
 image:
