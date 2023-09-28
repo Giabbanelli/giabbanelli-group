@@ -6,9 +6,7 @@ publication_types:
 authors:
   - P.J. Giabbanelli
   - P.J. Jackson
-author_notes:
-  - S. Mkhitaryan
-  - P.J. Giabbanelli
+author_notes: []
 doi: 10.1007/978-3-030-77980-1_50
 publication: Proceedings of the International Conference on Computational
   Science (ICCS), 661-674
