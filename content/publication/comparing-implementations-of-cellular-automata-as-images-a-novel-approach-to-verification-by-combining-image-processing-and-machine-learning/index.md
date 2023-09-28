@@ -6,9 +6,7 @@ publication_types:
 authors:
   - M. Wozniak
   - P.J. Giabbanelli
-author_notes:
-  - S. Mkhitaryan
-  - P.J. Giabbanelli
+author_notes: []
 doi: 10.1145/3437959.3459256
 publication: Proceedings of the 2021 ACM SIGSIM Conference on Principles of
   Advanced Discrete Simulation, 13-25
