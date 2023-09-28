@@ -4,7 +4,7 @@ title: "Comparing Implementations of Cellular Automata as Images: A Novel
 publication_types:
   - "1"
 authors:
-  - M. Wozniak
+  - M.K. Wozniak
   - P.J. Giabbanelli
 author_notes: []
 doi: 10.1145/3437959.3459256
