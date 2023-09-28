@@ -9,7 +9,7 @@ authors:
   - H. Phan
   - P.J. Giabbanelli
 doi: 10.1109/WSC57314.2022.10015484
-publication: Proceedings of the 2022 Winter Simulation Conference (WSC), 653-664. IEEE/ACM.
+publication: Proceedings of the 2022 Winter Simulation Conference (WSC), 653-664. IEEE/ACM
 draft: false
 featured: false
 image:
