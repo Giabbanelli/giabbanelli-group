@@ -8,7 +8,7 @@ authors:
   - P.J. Giabbanelli
   - P.I. Davidsen
 doi: 10.5555/2962374.2962383
-publication: Proceedings of the 2016 Spring Simulation Conference. In-cooperation ACM/IEEE.
+publication: Proceedings of the 2016 Spring Simulation Conference. In-cooperation ACM/IEEE
 draft: false
 featured: false
 image:
