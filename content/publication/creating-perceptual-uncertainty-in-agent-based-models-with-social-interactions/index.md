@@ -5,9 +5,7 @@ publication_types:
 authors:
   - E.O. Grantham
   - P.J. Giabbanelli
-author_notes:
-  - S. Mkhitaryan
-  - P.J. Giabbanelli
+author_notes: []
 doi: 10.22360/SpringSim.2020.HSAA.010
 publication: Proceedings of the 2020 Spring Simulation Conference. In-cooperation ACM/IEEE.
 draft: false
