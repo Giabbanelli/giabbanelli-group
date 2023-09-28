@@ -9,7 +9,7 @@ authors:
   - A.J. Jetter
 author_notes: []
 doi: 10.22360/SpringSim.2020.HSAA.001
-publication: Proceedings of the 2020 Spring Simulation Conference. In-cooperation ACM/IEEE.
+publication: Proceedings of the 2020 Spring Simulation Conference. In-cooperation ACM/IEEE
 draft: false
 featured: false
 image:
