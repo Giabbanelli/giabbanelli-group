@@ -20,7 +20,7 @@ sections:
         country_code: US
       coordinates: 
         latitude: '39.5108'
-        longitude: '84.7336'
+        longitude: '-84.7336'
       directions: Enter Benton Hall, go upstairs to enter the computer science department, and turn right
             #contact_links:
       #  - icon: comments
