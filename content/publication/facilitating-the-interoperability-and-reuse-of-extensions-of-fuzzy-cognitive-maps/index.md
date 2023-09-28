@@ -7,10 +7,7 @@ authors:
   - R. Schuerkamp
   - P.J. Giabbanelli
   - N. Daclin
-author_notes:
-  - J.T. Beerman
-  - G.G. Beaumont
-  - P.J. Giabbanelli
+author_notes: []
 publication: Proceedings of the Annual Modeling and Simulation Conference
   (ANNSIM). In-cooperation with ACM/IEEE.
 draft: false
