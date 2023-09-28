@@ -4,44 +4,54 @@ title:
 date: 2022-10-24
 type: landing
 
+---
+
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        Giabbanelli
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        Dr. Giabbanelli has published over 120 articles and several books on Artificial Intelligence and Machine Learning. Alumni from his research group now work in the industry (e.g., SpaceX) or have joined graduate schools (e.g., CalTech, U. Virginia, KTH Royal Institute of Technology).
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
+      slides:
+      - title: 👋 Welcome to the group
+        content: 120+ papers, 10+ theses, and counting!
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Research Impact
+        content: 5 nominations and best paper awards from our group
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
           position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: To learn more about the research done in the group, please see our publications at <url>https://scholar.google.com/citations?hl=en&user=7YilOHoAAAAJ&view_op=list_works&sortby=pubdate</url>
+          color: '#555'
+      - title: Let's talk about AI/ML research!
+        content: Interested in collaborating or joining the group?
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Contact us
+          url: ../contact/
     design:
-      columns: '1'
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+
 ---
