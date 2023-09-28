@@ -6,9 +6,7 @@ publication_types:
 authors:
   - P.J. Giabbanelli
   - A.A. Tawfik
-author_notes:
-  - S. Mkhitaryan
-  - P.J. Giabbanelli
+author_notes: []
 doi: 10.1007/978-3-030-60128-7_40
 publication: "HCI International 2020 – Late Breaking Papers: Cognition, Learning
   and Games. HCII 2020. Lecture Notes in Computer Science, vol 12425. Springer"
