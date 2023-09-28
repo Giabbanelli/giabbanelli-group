@@ -8,7 +8,7 @@ authors:
   - P.J. Giabbanelli
   - A.M. Montfort
 doi: 10.1109/WSC57314.2022.10015340
-publication: Proceedings of the 2022 Winter Simulation Conference (WSC), 569-580. IEEE/ACM.
+publication: Proceedings of the 2022 Winter Simulation Conference (WSC), 569-580. IEEE/ACM
 draft: false
 featured: false
 image:
