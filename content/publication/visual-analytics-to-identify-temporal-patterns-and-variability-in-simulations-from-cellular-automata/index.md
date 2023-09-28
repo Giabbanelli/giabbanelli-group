@@ -7,7 +7,7 @@ authors:
   - P.J. Giabbanelli
   - M. Baniukiewicz.
 doi: 10.1145/3265748
-publication: ACM Transactions on Modeling and Computer Simulation, 29(1):5.
+publication: ACM Transactions on Modeling and Computer Simulation, 29(1):5
 draft: false
 featured: false
 image:
