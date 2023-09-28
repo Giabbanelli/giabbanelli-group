@@ -1,7 +1,7 @@
 ---
 title: Advanced Data Analytics in Health
 publication_types:
-  - "0"
+  - "5"
 authors:
   - P.J. Giabbanelli
   - V.K. Mago
