@@ -9,7 +9,7 @@ authors:
   - N. Daclin
 author_notes: []
 publication: Proceedings of the Annual Modeling and Simulation Conference
-  (ANNSIM). In-cooperation with ACM/IEEE.
+  (ANNSIM). In-cooperation with ACM/IEEE
 draft: false
 featured: false
 image:
