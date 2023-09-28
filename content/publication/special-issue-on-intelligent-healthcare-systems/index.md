@@ -1,7 +1,7 @@
 ---
 title: Special Issue on Intelligent Healthcare Systems
 publication_types:
-  - "0"
+  - "4"
 authors:
   - V.K. Mago
   - P.J. Giabbanelli
