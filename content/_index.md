@@ -15,26 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+        Dr. Giabbanelli has published over 120 articles and several books on Artificial Intelligence and Machine Learning. Alumni from his research group now work in the industry (e.g., SpaceX) or have joined graduate schools (e.g., CalTech, U. Virginia, KTH Royal Institute of Technology).
   
   - block: markdown
     content:
@@ -60,8 +41,7 @@ sections:
     content:
       title:
       subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      text: To learn more about the research done in the group, please see our publications at [https://scholar.google.com/citations?hl=en&user=7YilOHoAAAAJ&view_op=list_works&sortby=pubdate]
     design:
       columns: '1'
 ---
