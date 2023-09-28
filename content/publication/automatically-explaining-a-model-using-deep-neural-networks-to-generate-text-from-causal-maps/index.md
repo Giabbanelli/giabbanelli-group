@@ -4,8 +4,7 @@ title: "Automatically explaining a model: using deep neural networks to generate
 publication_types:
   - "1"
 doi: 10.1109/WSC57314.2022.10015446
-publication: Proceedings of the 2022 Winter Simulation Conference (WSC),
-  2629-2640. IEEE/ACM.
+publication: Proceedings of the 2022 Winter Simulation Conference (WSC), 2629-2640. IEEE/ACM
 draft: false
 featured: false
 image:
