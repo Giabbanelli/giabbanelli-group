@@ -16,7 +16,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=7YilOHoAAAAJ&view_op=list_works&sortby=pubdate
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.linkedin.com/in/philippe-giabbanelli-38183728b
 organizations:
   - name: Miami University
