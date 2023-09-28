@@ -41,7 +41,7 @@ sections:
     content:
       title:
       subtitle:
-      text: To learn more about the research done in the group, please see our publications at [https://scholar.google.com/citations?hl=en&user=7YilOHoAAAAJ&view_op=list_works&sortby=pubdate]
+      text: To learn more about the research done in the group, please see our publications at <url>https://scholar.google.com/citations?hl=en&user=7YilOHoAAAAJ&view_op=list_works&sortby=pubdate</url>
     design:
       columns: '1'
 ---
