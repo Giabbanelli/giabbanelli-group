@@ -6,8 +6,7 @@ authors:
   - E. Lavin
   - P.J. Giabbanelli
 doi: 10.1109/WSC.2017.8247923
-publication: Proceedings of the 2017 Winter Simulation Conference (WSC),
-  1868-1879. IEEE/ACM.
+publication: Proceedings of the 2017 Winter Simulation Conference (WSC), 1868-1879. IEEE/ACM
 draft: false
 featured: false
 image:
