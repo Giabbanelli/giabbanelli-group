@@ -14,8 +14,7 @@ authors:
   - C.R. Harper
   - C.S. Florence.
 doi: 10.1109/WSC57314.2022.10015509
-publication: Proceedings of the 2022 Winter Simulation Conference (WSC),
-  2582-2593. IEEE/ACM.
+publication: Proceedings of the 2022 Winter Simulation Conference (WSC), 2582-2593. IEEE/ACM
 draft: false
 featured: false
 image:
