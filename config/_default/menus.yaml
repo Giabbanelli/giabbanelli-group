@@ -5,7 +5,7 @@
 
 main:
   - name: Dr. Giabbanelli
-    url: tour
+    url: author/philippe-j.-giabbanelli/
     weight: 10
   - name: Sample Projects
     url: post
