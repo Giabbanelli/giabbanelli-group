@@ -4,7 +4,7 @@ publication_types:
   - "5"
 authors:
   - P.J. Giabbanelli and A. Ligmann-Zielinska
-doi: doi.org/10.3390/books978-3-0365-2809-0
+doi: 10.3390/books978-3-0365-2809-0
 publication: Sustainability
 draft: false
 featured: false
