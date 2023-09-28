@@ -1,7 +1,7 @@
 ---
 title: Transitioning from Individuals to Groups in Knowledge Map Construction
 publication_types:
-  - "0"
+  - "2"
 authors:
   - B. Wang
   - A.A. Tawfik
