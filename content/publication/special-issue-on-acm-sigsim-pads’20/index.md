@@ -1,7 +1,7 @@
 ---
 title: Special Issue on ACM SIGSIM PADS’20
 publication_types:
-  - "0"
+  - "4"
 authors:
   - P.J. Giabbanelli
   - C. Carothers
