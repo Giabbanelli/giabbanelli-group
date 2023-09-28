@@ -7,9 +7,7 @@ authors:
   - J. Li
   - T. Koster
   - P.J. Giabbanelli
-author_notes:
-  - S. Mkhitaryan
-  - P.J. Giabbanelli
+author_notes: []
 doi: 10.1109/WSC52266.2021.9715408
 publication: Proceedings of the 2021 Winter Simulation Conference (WSC). IEEE/ACM
 draft: false
