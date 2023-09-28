@@ -3,7 +3,8 @@ title: Modelling and Simulation of Human-Environment Interactions
 publication_types:
   - "5"
 authors:
-  - P.J. Giabbanelli and A. Ligmann-Zielinska
+  - P.J. Giabbanelli
+  - A. Ligmann-Zielinska
 doi: 10.3390/books978-3-0365-2809-0
 publication: Sustainability
 draft: false
