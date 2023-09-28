@@ -4,15 +4,10 @@ title: "On the necessity of human decision-making errors to explain vaccination
 publication_types:
   - "1"
 authors:
-  - M. Nguyen
-  - D. Vu
-  - A. Vo
-  - L. Liang
-  - P.J. Giabbanelli
-author_notes:
   - J.T. Beerman
   - G.G. Beaumont
   - P.J. Giabbanelli
+author_notes: []
 publication: Proceedings of the Annual Modeling and Simulation Conference
   (ANNSIM). In-cooperation with ACM/IEEE.
 draft: false
