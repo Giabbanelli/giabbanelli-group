@@ -8,7 +8,7 @@ authors:
   - A.T. Stefanik
   - S.A. Gray
   - R. Arlinghaus
-publication: Proceedings of the 2018 Spring Simulation Conference. In-cooperation ACM/IEEE.
+publication: Proceedings of the 2018 Spring Simulation Conference. In-cooperation ACM/IEEE
 draft: false
 featured: false
 image:
