@@ -1,5 +1,5 @@
 ---
-title: Automatic Generation of Individual Fuzzy Cognitive Maps from Longitudinal Data.
+title: Automatic Generation of Individual Fuzzy Cognitive Maps from Longitudinal Data
 publication_types:
   - "1"
 authors:
