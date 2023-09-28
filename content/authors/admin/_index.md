@@ -22,7 +22,16 @@ organizations:
   - name: Miami University
     url: ""
 education:
-  courses: []
+  courses:
+    - course: Ph.D.
+      institution: Simon Fraser University
+      year: 2014
+    - course: M.Sc. Computing Science
+      institution: Simon Fraser University
+      year: 2009
+    - course: B.S. Computer Science
+      institution: Université Côte d'Azur
+      year: 2009
 superuser: true
 user_groups:
   - PI
@@ -31,3 +40,4 @@ highlight_name: false
 first_name: Nelson
 email: ""
 ---
+At nationally-ranked American universities, I have developed and delivered a range of courses on predictive modeling and health including Machine Learning, Network Science, Computational Epidemiology, Artificial Intelligence, or Virtual Worlds. I have taught at all levels, from introductory programming courses to data structures, algorithms, and graduate-level seminars. My research focuses on developing and applying artificial intelligence tools to support population health interventions. I have published almost 120 articles (mostly with my students), whose quality has been recognized in several ways including five best paper awards and nominations or the 2022 Annual Outstanding Faculty Research Award from the College of Engineering and Computing. I have been continuously funded for over 10 years, receiving over $1M from major federal organizations (e.g., NIH, NSF, CDC), companies (e.g., Microsoft), and organizations abroad. I am actively involved in scientific leadership as editor for five journals, lead editor of several special issues, or track/program/general chair at international ACM or IEEE conferences.
