@@ -9,5 +9,5 @@ social:
     link: https://www.linkedin.com/in/tgandee/
 superuser: false
 user_groups:
-  - Student
+  - Students
 ---
