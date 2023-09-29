@@ -1,9 +1,10 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Agent-Based Models and Machine Learning
 date: 2020-12-01
+image:
+  filename: featured.jpg
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+We make hybrid models.
 
 <!--more-->
 
