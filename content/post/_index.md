@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Our sample research projects include...
 
 # Listing view
 view: compact
