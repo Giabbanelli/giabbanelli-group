@@ -31,7 +31,7 @@ education:
       year: 2009
     - course: B.S. Computer Science
       institution: Université Côte d'Azur
-      year: 2009
+      year: 2007
 superuser: true
 user_groups:
   - PI
