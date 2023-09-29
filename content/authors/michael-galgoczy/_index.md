@@ -1,7 +1,8 @@
 ---
 title: Michael Galgoczy
+role: Software Engineer, John Deere
 avatar_filename: avatar.jpg
-bio: Software Engineer, John Deere
+bio: ""
 social:
   - display:
       header: false
