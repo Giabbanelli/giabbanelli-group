@@ -1,6 +1,6 @@
 ---
 title: Tyler Gandee
-avatar_filename: paper_photo.jpg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
