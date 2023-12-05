@@ -1,6 +1,6 @@
 ---
 title: Ashutosh Pitkar
-avatar_filename: pitkar.jpg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
