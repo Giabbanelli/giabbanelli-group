@@ -1,6 +1,6 @@
 ---
 title: Ashutosh Pitkar
-avatar_filename: pitkaram-miamioh.edu-0.jpg
+avatar_filename: pitkar.jpg
 social:
   - display:
       header: false
