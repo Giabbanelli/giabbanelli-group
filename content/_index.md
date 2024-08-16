@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: 120+ papers, 10+ theses, and counting!
+        content: 130+ papers, 4 books, 10+ theses, and counting!
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Research Impact
-        content: 5 nominations and best paper awards from our group
+        content: 6 nominations and best paper awards from our group
         align: left
         background:
           image:
