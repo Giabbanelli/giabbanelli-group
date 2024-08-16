@@ -1,6 +1,6 @@
 ---
 title: Philippe J. Giabbanelli
-role: Associate Professor of Computer Science & Software Engineering
+role: Full Research Professor, Medical Modeling & Simulation
 avatar_filename: giabbanelli-philippe-150x150.jpg
 bio: My research interests include ML/AI applied to simulation and human health.
 interests:
@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:giabbapj@miamioh.edu
+    link: mailto:giabbanelli@gmail.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=7YilOHoAAAAJ&view_op=list_works&sortby=pubdate
@@ -40,4 +40,4 @@ highlight_name: false
 first_name: Nelson
 email: ""
 ---
-At nationally-ranked American universities, I have developed and delivered a range of courses on predictive modeling and health including Machine Learning, Network Science, Computational Epidemiology, Artificial Intelligence, or Virtual Worlds. I have taught at all levels, from introductory programming courses to data structures, algorithms, and graduate-level seminars. My research focuses on developing and applying artificial intelligence tools to support population health interventions. I have published over 120 articles (mostly with my students), whose quality has been recognized in several ways including five best paper awards and nominations or the 2022 Annual Outstanding Faculty Research Award from the College of Engineering and Computing. I have been continuously funded for over 10 years, receiving over $1M from major federal organizations (e.g., NIH, NSF, CDC), companies (e.g., Microsoft), and organizations abroad. I am actively involved in scientific leadership as editor for five journals, lead editor of several special issues, or track/program/general chair at international ACM or IEEE conferences.
+I am a Full Professor at Old Dominion University, specializing in artificial intelligence applications for population health interventions. My research integrates artificial intelligence, modeling, and health, with applications to a broad portfolio of conditions including obesity, suicide prevention, COVID, or HIV. I have published over 130 articles and received numerous accolades, including the Annual Outstanding Faculty Research Award from Miami University and recognition as a top 2% scientist worldwide by Scopus for several years. In addition to 15 years of experience in extensive scientific leadership and team building, I provide service to the research community on the editorial board of several journals (e.g., BMC Digital Health, Intelligence-Based Medicine, BMC Medical Informatics & Decision Making) or as program chair and general chair of international ACM/IEEE conferences. I have received funding as principal investigator from major federal organizations (e.g., NIH, NSF, CDC), companies (e.g., Microsoft), and organizations abroad.
