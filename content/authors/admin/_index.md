@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/philippe-giabbanelli-38183728b
 organizations:
-  - name: Miami University
+  - name: Old Dominion University
     url: ""
 education:
   courses:
