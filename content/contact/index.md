@@ -10,18 +10,18 @@ sections:
       title: Contact
       text: |-
         Please do not hesitate to get in touch if you would like to discuss research projects. However, due to a high volume of email, I may not be able to respond to every student who wishes to join the lab. To maximize your responses, please use 'Joining the lab' as your email title and include your CV along with your transcript. Note that I cannot answer emails regarding admission to the program or funding support, as these decisions are made by departmental and university-wide committees rather than individual faculty members.
-      email: giabbapj@miamioh.edu
+      email: giabbanelli@gmail.com
       address:
-        street: 205W Benton Hall
-        city: Oxford
-        region: OH
-        postcode: '45056'
+        street: Virginia Modeling, Analysis, and Simulation Center
+        city: Suffolk
+        region: VA
+        postcode: '23435'
         country: United States
         country_code: US
       coordinates: 
-        latitude: '39.5108'
-        longitude: '-84.7336'
-      directions: Enter Benton Hall, go upstairs to enter the computer science department, and turn right
+        latitude: '36.86967515825599' 
+        longitude: '-76.41744969308898'
+      directions: We are in an access-controlled secure environment. Please make an appointment prior to any visit.
             #contact_links:
       #  - icon: comments
       #    icon_pack: fas
